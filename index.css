@@ -1,0 +1,17 @@
+.div-mae{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.icon-instagram{
+    background-color: #299e29
+}
+
+.icon-facebook{
+    background-color: #9e2944 
+}
+
+.icon-gmail{
+    background-color: #29719e 
+}
